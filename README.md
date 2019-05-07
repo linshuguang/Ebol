@@ -5,8 +5,7 @@
 
 
 # Overview
-Ebol is a modelling language aimed at separating business and application logic from underlying platform. It's an approach to implement 
-the idea of Model Driven Architecture.
+Ebol is a modelling language aimed at separating business and application logic from underlying platform. It's an approach to implement the idea of Model Driven Architecture.
 
 Traditionally, the product manager relied on keynotes/ppt/uml or anything alike to explain the concept model in his mind to developers. In 
 most cases, the idea is not expressed in a logical way, it's usually left to the developers who finally made things clear reasoning. As a 
