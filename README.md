@@ -1,6 +1,6 @@
 # Ebol - Enterprise Business Oriented Language
 
-# Table of Contents
+
 * [Overview](#Overview)
 
 
