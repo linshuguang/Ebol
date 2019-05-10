@@ -16,9 +16,9 @@ yet it has drawbacks. For example, UML has coarse-grained control over the logic
 The problems with general purpose programming languages come from their high flexibility, which makes it hard to extract the key logic
 expression. The grammar should be restricted.  All these considerations lead to Ebol.
 
-<img src="application in future.png">
+big picture<img src="application in future.png" alt="big picture">
 
-<img src="demo.PNG">
+demo<img src="demo.PNG" alt="demo">
 
 
 
