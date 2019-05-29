@@ -1,5 +1,4 @@
 # Ebol - Enterprise Business Oriented Language
-
 a good language should not only serve as a communication tool, but also model the various shape of people's thoughts
 
 * [Overview](#Overview)
